@@ -2,7 +2,7 @@
 This placement cell web application is created for users/employees to manage interviews of students, and allocate students to companies interviews.
 It is built using NodeJs, ExpressJs, MongoDB, EJS and JavaScript.
 
-## ⚙️ Functionality
+# Functionality
 - User/Employee singUp and signIn
 - Add student
 - Delete student
@@ -11,7 +11,7 @@ It is built using NodeJs, ExpressJs, MongoDB, EJS and JavaScript.
 - Update user profile
 - Download the CSV report
 
-## 🧑‍💻 Getting started
+# Getting started
 - Fork the project
 - Clone the forked repository in your local system
 - Create .env file in the root director and add the following:-
@@ -24,12 +24,12 @@ It is built using NodeJs, ExpressJs, MongoDB, EJS and JavaScript.
 - The project is running on the port number provided by you.
    ` npm start `
 
-## 🛠️ Tools Used
+ # Tools Used
 - NodeJS
 - MongoDB
 - EJS
 
-### 📚 Libraries:
+# Libraries:
 - connect-mongo
 - cookie-parser
 - ejs
@@ -47,11 +47,3 @@ It is built using NodeJs, ExpressJs, MongoDB, EJS and JavaScript.
 - path
 - rotating-file-stream
 - .env
-
-## 🖼️ Screenhorts
-![signIn page](./assets/image/signInPage.png)
-![signUp page](./assets/image/signUpPage.png)
-![home page](./assets/image/homePage.png)
-![Add Student Page](./assets/image/AddStudentPage.png)
-![company List Home Page](./assets/image/companyListHomePage.png)
-![schedule Interview Page](./assets/image/scheduleInterviewPage.png)
